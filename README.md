@@ -38,10 +38,6 @@ src="https://img.shields.io/github/followers/Sivellexfc?logo=github&style=for-th
 
 <a href="http://www.github.com/Sivellexfc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivellexfc&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Sivellexfc"><img src="https://activity-graph.herokuapp.com/graph?username=Sivellexfc&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Sivellexfc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivellexfc&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
