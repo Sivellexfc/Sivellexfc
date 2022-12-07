@@ -1,7 +1,7 @@
 Hi My name is Musluhan Çavuş
 ======================================================================================================================================
 
-Junior Mobil and Backend Developer
+Junior Backend Developer
 ----------------------------------
 
 * 🌍  I'm based in Turkey/Bursa
