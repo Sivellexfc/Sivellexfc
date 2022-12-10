@@ -5,7 +5,7 @@ Junior Backend Developer
 ----------------------------------
 
 * 🌍  I'm based in Turkey/Bursa
-* ✉️  You can contact me at [musluhan01@hotmail.com](mailto:musluhan01@hotmail.com)
+* ✉️  You can contact me at [musluhan01@gmail.com](mailto:musluhan01@gmail.com)
 * 🧠  I'm learning Flutter and Java Spring
 
 <a href="https://www.twitter.com/mhancavus" target="_blank" rel="noreferrer"><img
