@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/91620498/236644269-1347d71c-f19c-48e3-b351-47ce01050bb4.gif" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ## <div align="center">I'm Musluhan, a Junior Java-Backend developer 👨‍💻 Flutter freelance developer 🚀</div>  
   
