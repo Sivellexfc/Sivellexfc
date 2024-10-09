@@ -3,16 +3,10 @@
 </div>  
 
 
-## <div align="center">I'm Musluhan, a Junior Java-Backend developer 👨‍💻 Flutter freelance developer 🚀</div>  
+## <div align="center">I'm Musluhan, a Junior Fullstack developer 👨‍💻 Flutter freelance developer 🚀</div>  
   
 
-  
-  
-
-- 🌱 I’m currently learning Java Spring Framewor  
-  
-
-- *❓ Ask me about anything related to Java and related technologies*  
+- 🌱 I’m currently working with Java and JS technologies  
   
 
 - *<ins>⚡ I'm always available to work together</ins>*  
